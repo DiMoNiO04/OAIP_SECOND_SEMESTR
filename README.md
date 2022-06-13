@@ -1,1 +1,1 @@
-# OAIP_SECOND_SEMESTR
+Fundamentals of algorithmization and programming. 2 semester
